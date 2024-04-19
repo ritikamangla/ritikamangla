@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ritikamangla
 - 👀 I’m interested in Machine Learning and Deep Learning
-- 🌱 I’m currently in my prefinal year pursuing BTech in Information Technology from VJTI, Mumbai.
+- 🌱 I’m currently pursuing Masters of Science in Computer Science at University of Texas at Austin.
 
 <!---
 ritikamangla/ritikamangla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
